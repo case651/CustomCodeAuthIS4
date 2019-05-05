@@ -1,0 +1,14 @@
+C:\Users\Konstantin\source\repos\CustomAuthCode\app1\bin\Debug\netcoreapp2.2\WebaApp1.deps.json
+C:\Users\Konstantin\source\repos\CustomAuthCode\app1\bin\Debug\netcoreapp2.2\WebaApp1.runtimeconfig.json
+C:\Users\Konstantin\source\repos\CustomAuthCode\app1\bin\Debug\netcoreapp2.2\WebaApp1.runtimeconfig.dev.json
+C:\Users\Konstantin\source\repos\CustomAuthCode\app1\bin\Debug\netcoreapp2.2\WebaApp1.dll
+C:\Users\Konstantin\source\repos\CustomAuthCode\app1\obj\Debug\netcoreapp2.2\WebaApp1.csprojAssemblyReference.cache
+C:\Users\Konstantin\source\repos\CustomAuthCode\app1\obj\Debug\netcoreapp2.2\WebaApp1.csproj.CoreCompileInputs.cache
+C:\Users\Konstantin\source\repos\CustomAuthCode\app1\obj\Debug\netcoreapp2.2\WebaApp1.RazorAssemblyInfo.cache
+C:\Users\Konstantin\source\repos\CustomAuthCode\app1\obj\Debug\netcoreapp2.2\WebaApp1.RazorAssemblyInfo.cs
+C:\Users\Konstantin\source\repos\CustomAuthCode\app1\obj\Debug\netcoreapp2.2\WebaApp1.AssemblyInfoInputs.cache
+C:\Users\Konstantin\source\repos\CustomAuthCode\app1\obj\Debug\netcoreapp2.2\WebaApp1.AssemblyInfo.cs
+C:\Users\Konstantin\source\repos\CustomAuthCode\app1\obj\Debug\netcoreapp2.2\WebaApp1.RazorTargetAssemblyInfo.cache
+C:\Users\Konstantin\source\repos\CustomAuthCode\app1\bin\Debug\netcoreapp2.2\WebaApp1.pdb
+C:\Users\Konstantin\source\repos\CustomAuthCode\app1\obj\Debug\netcoreapp2.2\WebaApp1.dll
+C:\Users\Konstantin\source\repos\CustomAuthCode\app1\obj\Debug\netcoreapp2.2\WebaApp1.pdb

@@ -1,0 +1,14 @@
+C:\Users\Konstantin\source\repos\CustomAuthCode\IdentityServer4\bin\Debug\netcoreapp2.2\IdentityServer4.deps.json
+C:\Users\Konstantin\source\repos\CustomAuthCode\IdentityServer4\bin\Debug\netcoreapp2.2\IdentityServer4.runtimeconfig.json
+C:\Users\Konstantin\source\repos\CustomAuthCode\IdentityServer4\bin\Debug\netcoreapp2.2\IdentityServer4.runtimeconfig.dev.json
+C:\Users\Konstantin\source\repos\CustomAuthCode\IdentityServer4\bin\Debug\netcoreapp2.2\IdentityServer4.dll
+C:\Users\Konstantin\source\repos\CustomAuthCode\IdentityServer4\bin\Debug\netcoreapp2.2\IdentityServer4.pdb
+C:\Users\Konstantin\source\repos\CustomAuthCode\IdentityServer4\obj\Debug\netcoreapp2.2\IdentityServer4.csprojAssemblyReference.cache
+C:\Users\Konstantin\source\repos\CustomAuthCode\IdentityServer4\obj\Debug\netcoreapp2.2\IdentityServer4.csproj.CoreCompileInputs.cache
+C:\Users\Konstantin\source\repos\CustomAuthCode\IdentityServer4\obj\Debug\netcoreapp2.2\IdentityServer4.RazorAssemblyInfo.cache
+C:\Users\Konstantin\source\repos\CustomAuthCode\IdentityServer4\obj\Debug\netcoreapp2.2\IdentityServer4.RazorAssemblyInfo.cs
+C:\Users\Konstantin\source\repos\CustomAuthCode\IdentityServer4\obj\Debug\netcoreapp2.2\IdentityServer4.AssemblyInfoInputs.cache
+C:\Users\Konstantin\source\repos\CustomAuthCode\IdentityServer4\obj\Debug\netcoreapp2.2\IdentityServer4.AssemblyInfo.cs
+C:\Users\Konstantin\source\repos\CustomAuthCode\IdentityServer4\obj\Debug\netcoreapp2.2\IdentityServer4.RazorTargetAssemblyInfo.cache
+C:\Users\Konstantin\source\repos\CustomAuthCode\IdentityServer4\obj\Debug\netcoreapp2.2\IdentityServer4.dll
+C:\Users\Konstantin\source\repos\CustomAuthCode\IdentityServer4\obj\Debug\netcoreapp2.2\IdentityServer4.pdb
